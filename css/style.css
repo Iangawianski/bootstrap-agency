@@ -1,0 +1,110 @@
+.navbar {
+	background: transparent;
+	border: 0;
+	padding-top: 20px;
+}
+.brand {
+	font-family: 'Kaushan Script', cursive;
+	color: #fed136;
+	font-size: 2em;
+}
+.jumbotron {
+	background-image: url("../img/mountains.jpeg");
+	background-position: center top;
+    background-size: 100% auto;
+	height: 800px;
+	padding-top: 200px;
+}
+.jumbotron h4 {
+	font-family: "Droid Serif","Helvetica Neue"
+}
+.jumbotron h1 {
+	margin-bottom: 50px;
+}
+.btn {
+	background: #fed136;
+	border: 0;
+	padding: 20px;
+	border-radius: 3px;
+}
+.redondo {
+	height: 100px;
+	width: 100px;
+	border-radius: 50%;
+	border: 5px solid #eee;
+}
+.perfil {
+	border-radius: 50%;
+	height: 260px;
+	width: 260px;
+	border: 7px solid white;
+}
+.icono {
+	text-align: center;
+	width: 100px;
+	height: 100px;
+	border-radius: 50%;
+	background: #fed136;
+}
+.icono span {
+	line-height: 100px;
+	color: white;
+	font-size: 60px;
+}
+.icono {
+     float: none;
+     margin-left: auto;
+     margin-right: auto;
+}
+.services h2 {
+	font-family: Montserrat,"Helvetica Neue",Helvetica,Arial,sans-serif;
+    text-transform: uppercase;
+    font-weight: 700;
+    font-size: 40px;
+}
+.services h4 {
+	font-family: "Droid Serif","Helvetica Neue",Helvetica,Arial,sans-serif;
+    font-style: italic;
+    color: #777;
+    font-size: 15px;
+}
+.service h2 {
+    font-weight: 700;
+    font-size: 20px;
+    font-family: Montserrat,"Helvetica Neue",Helvetica,Arial,sans-serif;
+}
+.services {
+	padding: 50px 0px 50px 0px;
+}
+.service p {
+	color: #777;
+}
+.sec {
+	padding-top: 50px;
+	padding-bottom: 100px;
+}
+.fluid {
+	background: #eee;
+}
+.heading {
+	font-family: Montserrat,"Helvetica Neue",Helvetica,Arial,sans-serif;
+    text-transform: uppercase;
+    font-weight: 700;
+}
+a img {
+	height:100%;
+	width:100%;
+}
+.pad {
+	padding: 40px 130px;
+	font-family: Helvetica;
+}
+.form {
+	background: black;
+}
+.form h2 {
+	color: white;
+}
+
+
+
